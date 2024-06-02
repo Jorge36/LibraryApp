@@ -19,3 +19,8 @@ User must also be able to view all books by the same author, ordered according t
 I used Java and NeatBeans IDE to implement this tool.
 The most important concept implemented on this application is the comparator interface. A comparator interface is used to order the objects of user-defined classes. A comparator object is capable of comparing two objects of the same class. 
 More information about this interface -> https://www.geeksforgeeks.org/comparator-interface-java/.
+
+![alt_text](https://github.com/Jorge36/LibraryApp/blob/966dff7c24ce46cd364cab40fcdaed985aa778d1/Testing/testing.png)
+
+In Testing folder there is a video about this app running on NetBeans.
+
