@@ -16,4 +16,6 @@ User must also be able to view all books by the same author, ordered according t
 3.	By year  
 4.	By isbn  
 
-I used Java and NeatBeans IDE to implement this tool
+I used Java and NeatBeans IDE to implement this tool.
+The most important concept implemented on this application is the comparator interface. A comparator interface is used to order the objects of user-defined classes. A comparator object is capable of comparing two objects of the same class. 
+More information about this interface -> https://www.geeksforgeeks.org/comparator-interface-java/.
